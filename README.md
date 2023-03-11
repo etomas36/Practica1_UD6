@@ -1,7 +1,7 @@
 # UD6 - Práctica 1 - Refactorizar
 
 * [1. Realiza los siguientes cambios en el código](#1-realiza-los-siguientes-cambios-en-el-código)
-* [2. **Refactoriza** el código fuente de la siguiente manera: (Haz las capturas de todas las ventanas que aparezcan)](#2-refactoriza-el-código-fuente-de-la-seguiente-manera--haz-las-capturas-de-todas-las-ventanas-que-aparezcan)
+* [2. **Refactoriza** el código fuente de la siguiente manera: (Haz las capturas de todas las ventanas que aparezcan)](#2-refactoriza-el-código-fuente-de-la-siguiente-manera--haz-las-capturas-de-todas-las-ventanas-que-aparezcan)
 * [3. En el método `main`, **refactoriza**](#3-en-el-método-main-refactoriza)
 * [4. Ejecuta el programa y haz una captura en consola](#4-ejecuta-el-programa-y-haz-una-captura-en-consola)
 * [5. Haz una captura del código fuente resultado después de refactorizar](#5-haz-una-captura-del-código-fuente-resultado-después-de-refactorizar)
@@ -18,7 +18,7 @@ Realita un *fork* del proyecto que se encuentra en: <https://github.com/Cami500/
 
 > Ejecuta el código y realiza una captura del resultado en consola.
 
-## 2. **Refactoriza** el código fuente de la siguiente manera: (Haz las caputras de todas las ventanas que aparezcan)
+## 2. **Refactoriza** el código fuente de la siguiente manera: (Haz las capturas de todas las ventanas que aparezcan)
 
 Cambia el nombre de los atributos de la clase `Persona`. 
 
@@ -50,6 +50,6 @@ Extrae las cadenas y números a constantes de clase con los siguientes nombres: 
 
 (De este apartado no es necesario un commit a menos que faltara algo del commit anterior)
 
-## 5. Haz una captura del código fuente resultando después de refactorizar
+## 5. Haz una captura del código fuente resultado después de refactorizar
 
 (De este apartado no es necesario un commit a menos que faltara algo del commit anterior)
